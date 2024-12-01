@@ -1,0 +1,177 @@
+{
+  "brand": "ChipiDate",
+  "nav": {
+    "howItWorks": "Comment ça Marche",
+    "searchDeals": "Trouver une Table",
+    "featured": "En Vedette",
+    "forRestaurants": "Pour Restaurants",
+    "signIn": "Se Connecter",
+    "register": "S'inscrire",
+    "signOut": "Se Déconnecter"
+  },
+  "hero": {
+    "title": "Trouvez votre Table Parfaite",
+    "subtitle": "Découvrez des expériences culinaires exclusives avec des réductions incroyables"
+  },
+  "search": {
+    "cuisine": "Rechercher par cuisine ou restaurant",
+    "search": "Rechercher",
+    "date": "Sélectionner une date",
+    "guests": "Nombre de convives",
+    "filters": {
+      "title": "Filtres",
+      "date": "Date",
+      "time": "Heure",
+      "guests": "Nombre de Convives",
+      "priceCategory": "Catégorie de Prix",
+      "cuisineTypes": "Types de Cuisine",
+      "features": "Caractéristiques",
+      "distance": "Distance",
+      "rating": "Note Minimale",
+      "sort": {
+        "label": "Trier par",
+        "recommended": "Recommandés",
+        "rating": "Note",
+        "price": "Prix",
+        "distance": "Distance"
+      }
+    },
+    "features": {
+      "outdoorSeating": "Terrasse",
+      "privateRoom": "Salle Privée",
+      "wheelchairAccessible": "Accessible aux Fauteuils Roulants",
+      "liveMusic": "Musique Live",
+      "byob": "BYOB",
+      "waterfront": "Vue sur l'Eau",
+      "rooftop": "Rooftop",
+      "petFriendly": "Animaux Acceptés",
+      "valetParking": "Voiturier",
+      "wineList": "Carte des Vins",
+      "fullBar": "Bar Complet",
+      "vegetarianOptions": "Options Végétariennes",
+      "veganOptions": "Options Véganes",
+      "glutenFreeOptions": "Options Sans Gluten"
+    }
+  },
+  "auth": {
+    "signIn": "Se Connecter",
+    "email": "Email",
+    "password": "Mot de passe",
+    "noAccount": "Pas encore de compte ?",
+    "createAccount": "Créer un compte",
+    "register": {
+      "title": "Créer un Compte",
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "userType": {
+        "label": "Je suis un",
+        "diner": "Client",
+        "restaurant": "Restaurateur"
+      },
+      "terms": "J'accepte les Conditions Générales",
+      "submit": "Créer un Compte",
+      "submitting": "Création en cours..."
+    },
+    "hasAccount": "Déjà un compte ?",
+    "error": {
+      "invalidCredentials": "Email ou mot de passe invalide"
+    }
+  },
+  "restaurant": {
+    "dashboard": {
+      "title": "Tableau de Bord",
+      "stats": {
+        "reservations": "Réservations du Jour",
+        "revenue": "Revenu du Mois",
+        "guests": "Total des Convives",
+        "avgBooking": "Valeur Moyenne des Réservations"
+      },
+      "quickActions": {
+        "title": "Actions Rapides",
+        "availability": "Gérer la Disponibilité",
+        "menus": "Mettre à Jour les Menus",
+        "settings": "Paramètres"
+      }
+    },
+    "availability": {
+      "title": "Disponibilité des Tables",
+      "importTables": "Importer des Tables",
+      "addTable": "Ajouter une Table",
+      "editTable": "Modifier la Table",
+      "tableDetails": {
+        "name": "Nom/Numéro de Table",
+        "namePlaceholder": "ex., Table 1 ou Table Fenêtre",
+        "location": "Emplacement",
+        "minDiners": "Minimum de Convives",
+        "maxDiners": "Maximum de Convives",
+        "isPrivate": "Table Privée"
+      },
+      "locations": {
+        "main": "Salle Principale",
+        "outdoor": "Terrasse",
+        "private": "Salle Privée",
+        "bar": "Espace Bar"
+      }
+    },
+    "menus": {
+      "title": "Gestion des Menus",
+      "addMenu": "Ajouter un Menu",
+      "editMenu": "Modifier le Menu",
+      "menuDetails": {
+        "name": "Nom du Menu",
+        "description": "Description",
+        "startDate": "Date de Début",
+        "endDate": "Date de Fin",
+        "price": "Prix Normal",
+        "discountedPrice": "Prix Réduit"
+      }
+    },
+    "settings": {
+      "title": "Paramètres du Restaurant",
+      "sections": {
+        "basic": {
+          "title": "Informations de Base",
+          "name": "Nom du Restaurant",
+          "description": "Description",
+          "cuisine": "Type de Cuisine",
+          "features": "Caractéristiques du Restaurant",
+          "featuresDescription": "Sélectionnez toutes les caractéristiques qui s'appliquent à votre restaurant"
+        },
+        "contact": {
+          "title": "Coordonnées",
+          "email": "Email",
+          "phone": "Téléphone",
+          "address": "Adresse",
+          "website": "Site Web"
+        },
+        "hours": {
+          "title": "Horaires d'Ouverture",
+          "days": {
+            "monday": "Lundi",
+            "tuesday": "Mardi",
+            "wednesday": "Mercredi",
+            "thursday": "Jeudi",
+            "friday": "Vendredi",
+            "saturday": "Samedi",
+            "sunday": "Dimanche"
+          }
+        },
+        "photos": {
+          "title": "Photos",
+          "upload": "Télécharger des Photos",
+          "dragDrop": "ou glisser-déposer"
+        }
+      }
+    }
+  },
+  "common": {
+    "cancel": "Annuler",
+    "update": "Mettre à jour",
+    "add": "Ajouter",
+    "save": "Enregistrer",
+    "remove": "Supprimer",
+    "upload": "Télécharger"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "brand": "ChipiDate",
+  "nav": {
+    "howItWorks": "Como Funciona",
+    "searchDeals": "Encontrar Mesa",
+    "featured": "Destaques",
+    "forRestaurants": "Para Restaurantes",
+    "signIn": "Entrar",
+    "register": "Registrar",
+    "signOut": "Sair"
+  },
+  "hero": {
+    "title": "Encontre sua Mesa Perfeita",
+    "subtitle": "Descubra experiências gastronômicas exclusivas com descontos incríveis"
+  },
+  "search": {
+    "cuisine": "Buscar por cozinha ou restaurante",
+    "search": "Buscar",
+    "date": "Selecionar data",
+    "guests": "Número de pessoas",
+    "filters": {
+      "title": "Filtros",
+      "date": "Data",
+      "time": "Hora",
+      "guests": "Número de Pessoas",
+      "priceCategory": "Categoria de Preço",
+      "cuisineTypes": "Tipos de Cozinha",
+      "features": "Características",
+      "distance": "Distância",
+      "rating": "Avaliação Mínima",
+      "sort": {
+        "label": "Ordenar por",
+        "recommended": "Recomendados",
+        "rating": "Avaliação",
+        "price": "Preço",
+        "distance": "Distância"
+      }
+    },
+    "features": {
+      "outdoorSeating": "Área Externa",
+      "privateRoom": "Sala Privativa",
+      "wheelchairAccessible": "Acessível para Cadeirantes",
+      "liveMusic": "Música ao Vivo",
+      "byob": "BYOB",
+      "waterfront": "Vista para Água",
+      "rooftop": "Terraço",
+      "petFriendly": "Pet Friendly",
+      "valetParking": "Manobrista",
+      "wineList": "Carta de Vinhos",
+      "fullBar": "Bar Completo",
+      "vegetarianOptions": "Opções Vegetarianas",
+      "veganOptions": "Opções Veganas",
+      "glutenFreeOptions": "Opções Sem Glúten"
+    }
+  },
+  "auth": {
+    "signIn": "Entrar",
+    "email": "Email",
+    "password": "Senha",
+    "noAccount": "Não tem uma conta?",
+    "createAccount": "Criar Conta",
+    "register": {
+      "title": "Criar Conta",
+      "name": "Nome Completo",
+      "email": "Endereço de Email",
+      "password": "Senha",
+      "confirmPassword": "Confirmar Senha",
+      "userType": {
+        "label": "Eu sou um",
+        "diner": "Cliente",
+        "restaurant": "Proprietário de Restaurante"
+      },
+      "terms": "Concordo com os Termos e Condições",
+      "submit": "Criar Conta",
+      "submitting": "Criando Conta..."
+    },
+    "hasAccount": "Já tem uma conta?",
+    "error": {
+      "invalidCredentials": "Email ou senha inválidos"
+    }
+  },
+  "restaurant": {
+    "dashboard": {
+      "title": "Painel de Controle",
+      "stats": {
+        "reservations": "Reservas de Hoje",
+        "revenue": "Receita do Mês",
+        "guests": "Total de Convidados",
+        "avgBooking": "Valor Médio de Reserva"
+      },
+      "quickActions": {
+        "title": "Ações Rápidas",
+        "availability": "Gerenciar Disponibilidade",
+        "menus": "Atualizar Cardápios",
+        "settings": "Configurações"
+      }
+    },
+    "availability": {
+      "title": "Disponibilidade de Mesas",
+      "importTables": "Importar Mesas",
+      "addTable": "Adicionar Mesa",
+      "editTable": "Editar Mesa",
+      "tableDetails": {
+        "name": "Nome/Número da Mesa",
+        "namePlaceholder": "ex., Mesa 1 ou Mesa Janela",
+        "location": "Localização",
+        "minDiners": "Mínimo de Pessoas",
+        "maxDiners": "Máximo de Pessoas",
+        "isPrivate": "Mesa Privativa"
+      },
+      "locations": {
+        "main": "Salão Principal",
+        "outdoor": "Área Externa",
+        "private": "Sala Privativa",
+        "bar": "Área do Bar"
+      }
+    },
+    "menus": {
+      "title": "Gestão de Cardápios",
+      "addMenu": "Adicionar Cardápio",
+      "editMenu": "Editar Cardápio",
+      "menuDetails": {
+        "name": "Nome do Cardápio",
+        "description": "Descrição",
+        "startDate": "Data de Início",
+        "endDate": "Data de Término",
+        "price": "Preço Normal",
+        "discountedPrice": "Preço com Desconto"
+      }
+    },
+    "settings": {
+      "title": "Configurações do Restaurante",
+      "sections": {
+        "basic": {
+          "title": "Informações Básicas",
+          "name": "Nome do Restaurante",
+          "description": "Descrição",
+          "cuisine": "Tipo de Cozinha",
+          "features": "Características do Restaurante",
+          "featuresDescription": "Selecione todas as características que se aplicam ao seu restaurante"
+        },
+        "contact": {
+          "title": "Informações de Contato",
+          "email": "Email",
+          "phone": "Telefone",
+          "address": "Endereço",
+          "website": "Site"
+        },
+        "hours": {
+          "title": "Horário de Funcionamento",
+          "days": {
+            "monday": "Segunda-feira",
+            "tuesday": "Terça-feira",
+            "wednesday": "Quarta-feira",
+            "thursday": "Quinta-feira",
+            "friday": "Sexta-feira",
+            "saturday": "Sábado",
+            "sunday": "Domingo"
+          }
+        },
+        "photos": {
+          "title": "Fotos",
+          "upload": "Enviar Fotos",
+          "dragDrop": "ou arraste e solte"
+        }
+      }
+    }
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "update": "Atualizar",
+    "add": "Adicionar",
+    "save": "Salvar Alterações",
+    "remove": "Remover",
+    "upload": "Enviar"
+  }
+}

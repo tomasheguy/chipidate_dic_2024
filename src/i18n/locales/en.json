@@ -1,0 +1,158 @@
+{
+  "brand": "ChipiDate",
+  "nav": {
+    "howItWorks": "How It Works",
+    "searchDeals": "Find a Table",
+    "featured": "Featured Deals",
+    "forRestaurants": "For Restaurants",
+    "signIn": "Sign In",
+    "register": "Register",
+    "signOut": "Sign Out"
+  },
+  "search": {
+    "cuisine": "Search by cuisine or restaurant",
+    "search": "Search",
+    "date": "Select date",
+    "guests": "Number of guests",
+    "filters": {
+      "title": "Filters",
+      "date": "Date",
+      "time": "Time",
+      "guests": "Number of Guests",
+      "priceCategory": "Price Category",
+      "cuisineTypes": "Cuisine Types",
+      "features": "Features",
+      "distance": "Distance",
+      "rating": "Minimum Rating",
+      "sort": {
+        "label": "Sort by",
+        "recommended": "Recommended",
+        "rating": "Rating",
+        "price": "Price",
+        "distance": "Distance"
+      }
+    },
+    "features": {
+      "outdoorSeating": "Outdoor Seating",
+      "privateRoom": "Private Room",
+      "wheelchairAccessible": "Wheelchair Accessible",
+      "liveMusic": "Live Music",
+      "byob": "BYOB",
+      "waterfront": "Waterfront",
+      "rooftop": "Rooftop",
+      "petFriendly": "Pet Friendly",
+      "valetParking": "Valet Parking",
+      "wineList": "Wine List",
+      "fullBar": "Full Bar",
+      "vegetarianOptions": "Vegetarian Options",
+      "veganOptions": "Vegan Options",
+      "glutenFreeOptions": "Gluten-Free Options"
+    },
+    "cuisineTypes": {
+      "italian": "Italian",
+      "japanese": "Japanese",
+      "french": "French",
+      "chinese": "Chinese",
+      "indian": "Indian",
+      "mexican": "Mexican",
+      "mediterranean": "Mediterranean",
+      "thai": "Thai",
+      "american": "American",
+      "spanish": "Spanish"
+    }
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create Account",
+    "register": {
+      "title": "Create Account",
+      "name": "Full Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "userType": {
+        "label": "I am a",
+        "diner": "Diner",
+        "restaurant": "Restaurant Owner"
+      },
+      "terms": "I agree to the Terms and Conditions",
+      "submit": "Create Account",
+      "submitting": "Creating Account..."
+    },
+    "hasAccount": "Already have an account?",
+    "error": {
+      "invalidCredentials": "Invalid email or password"
+    }
+  },
+  "restaurant": {
+    "dashboard": {
+      "title": "Dashboard",
+      "stats": {
+        "reservations": "Today's Reservations",
+        "revenue": "Revenue This Month",
+        "guests": "Total Guests",
+        "avgBooking": "Average Booking Value"
+      },
+      "quickActions": {
+        "title": "Quick Actions",
+        "availability": "Manage Availability",
+        "menus": "Update Menus",
+        "settings": "Settings"
+      }
+    },
+    "availability": {
+      "title": "Table Availability"
+    },
+    "menus": {
+      "title": "Menu Management"
+    },
+    "settings": {
+      "title": "Restaurant Settings",
+      "sections": {
+        "basic": {
+          "title": "Basic Information",
+          "name": "Restaurant Name",
+          "description": "Description",
+          "cuisine": "Cuisine Type",
+          "features": "Restaurant Features",
+          "featuresDescription": "Select all features that apply to your restaurant"
+        },
+        "contact": {
+          "title": "Contact Information",
+          "email": "Email",
+          "phone": "Phone",
+          "address": "Address",
+          "website": "Website"
+        },
+        "hours": {
+          "title": "Operating Hours",
+          "days": {
+            "monday": "Monday",
+            "tuesday": "Tuesday",
+            "wednesday": "Wednesday",
+            "thursday": "Thursday",
+            "friday": "Friday",
+            "saturday": "Saturday",
+            "sunday": "Sunday"
+          }
+        },
+        "photos": {
+          "title": "Photos",
+          "upload": "Upload Photos",
+          "dragDrop": "or drag and drop"
+        }
+      }
+    }
+  },
+  "common": {
+    "cancel": "Cancel",
+    "update": "Update",
+    "add": "Add",
+    "save": "Save Changes",
+    "remove": "Remove",
+    "upload": "Upload"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "brand": "ChipiDate",
+  "nav": {
+    "howItWorks": "Cómo Funciona",
+    "searchDeals": "Buscar Mesa",
+    "featured": "Destacados",
+    "forRestaurants": "Para Restaurantes",
+    "signIn": "Iniciar Sesión",
+    "register": "Registrarse",
+    "signOut": "Cerrar Sesión"
+  },
+  "hero": {
+    "title": "Encuentra tu Mesa Perfecta",
+    "subtitle": "Descubre experiencias gastronómicas exclusivas con increíbles descuentos"
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona ChipiDate",
+    "steps": {
+      "find": {
+        "title": "Encuentra tu Experiencia",
+        "description": "Explora menús exclusivos de los mejores restaurantes"
+      },
+      "date": {
+        "title": "Elige tu Fecha",
+        "description": "Selecciona la fecha y número de comensales"
+      },
+      "pay": {
+        "title": "Paga y Ahorra",
+        "description": "Obtén descuentos importantes pagando por adelantado"
+      },
+      "enjoy": {
+        "title": "Disfruta tu Comida",
+        "description": "Preséntate y disfruta tu experiencia gourmet"
+      }
+    }
+  },
+  "search": {
+    "cuisine": "Buscar por cocina o restaurante",
+    "search": "Buscar",
+    "date": "Seleccionar fecha",
+    "guests": "Número de comensales",
+    "filters": {
+      "title": "Filtros",
+      "date": "Fecha",
+      "time": "Hora",
+      "guests": "Número de Comensales",
+      "priceCategory": "Categoría de Precio",
+      "cuisineTypes": "Tipos de Cocina",
+      "features": "Características",
+      "distance": "Distancia",
+      "rating": "Calificación Mínima",
+      "sort": {
+        "label": "Ordenar por",
+        "recommended": "Recomendados",
+        "rating": "Calificación",
+        "price": "Precio",
+        "distance": "Distancia"
+      }
+    },
+    "features": {
+      "outdoorSeating": "Terraza",
+      "privateRoom": "Sala Privada",
+      "wheelchairAccessible": "Accesible para Sillas de Ruedas",
+      "liveMusic": "Música en Vivo",
+      "byob": "BYOB",
+      "waterfront": "Vista al Agua",
+      "rooftop": "Terraza en Azotea",
+      "petFriendly": "Admite Mascotas",
+      "valetParking": "Valet Parking",
+      "wineList": "Carta de Vinos",
+      "fullBar": "Bar Completo",
+      "vegetarianOptions": "Opciones Vegetarianas",
+      "veganOptions": "Opciones Veganas",
+      "glutenFreeOptions": "Opciones Sin Gluten"
+    },
+    "cuisineTypes": {
+      "italian": "Italiana",
+      "japanese": "Japonesa",
+      "french": "Francesa",
+      "chinese": "China",
+      "indian": "India",
+      "mexican": "Mexicana",
+      "mediterranean": "Mediterránea",
+      "thai": "Tailandesa",
+      "american": "Americana",
+      "spanish": "Española"
+    }
+  },
+  "featured": {
+    "title": "Ofertas Destacadas",
+    "off": "% DESC",
+    "guests": "comensales",
+    "bookNow": "Reservar"
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "email": "Correo",
+    "password": "Contraseña",
+    "noAccount": "¿No tienes una cuenta?",
+    "createAccount": "Crear Cuenta",
+    "register": {
+      "title": "Crear Cuenta",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar Contraseña",
+      "userType": {
+        "label": "Soy un",
+        "diner": "Comensal",
+        "restaurant": "Dueño de Restaurante"
+      },
+      "terms": "Acepto los Términos y Condiciones",
+      "submit": "Crear Cuenta",
+      "submitting": "Creando Cuenta..."
+    },
+    "hasAccount": "¿Ya tienes una cuenta?",
+    "error": {
+      "invalidCredentials": "Correo o contraseña inválidos"
+    }
+  },
+  "restaurant": {
+    "dashboard": {
+      "title": "Panel de Control",
+      "stats": {
+        "reservations": "Reservas de Hoy",
+        "revenue": "Ingresos del Mes",
+        "guests": "Total de Comensales",
+        "avgBooking": "Valor Promedio de Reserva"
+      },
+      "quickActions": {
+        "title": "Acciones Rápidas",
+        "availability": "Gestionar Disponibilidad",
+        "menus": "Actualizar Menús",
+        "settings": "Configuración"
+      }
+    },
+    "availability": {
+      "title": "Disponibilidad de Mesas"
+    },
+    "menus": {
+      "title": "Gestión de Menús"
+    },
+    "settings": {
+      "title": "Configuración del Restaurante",
+      "sections": {
+        "basic": {
+          "title": "Información Básica",
+          "name": "Nombre del Restaurante",
+          "description": "Descripción",
+          "cuisine": "Tipo de Cocina",
+          "features": "Características del Restaurante",
+          "featuresDescription": "Seleccione todas las características que aplican a su restaurante"
+        },
+        "contact": {
+          "title": "Información de Contacto",
+          "email": "Correo",
+          "phone": "Teléfono",
+          "address": "Dirección",
+          "website": "Sitio Web"
+        },
+        "hours": {
+          "title": "Horario de Operación",
+          "days": {
+            "monday": "Lunes",
+            "tuesday": "Martes",
+            "wednesday": "Miércoles",
+            "thursday": "Jueves",
+            "friday": "Viernes",
+            "saturday": "Sábado",
+            "sunday": "Domingo"
+          }
+        },
+        "photos": {
+          "title": "Fotos",
+          "upload": "Subir Fotos",
+          "dragDrop": "o arrastrar y soltar"
+        }
+      }
+    }
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "update": "Actualizar",
+    "add": "Agregar",
+    "save": "Guardar Cambios",
+    "remove": "Eliminar",
+    "upload": "Subir"
+  }
+}
